@@ -1,0 +1,15 @@
+fun main()
+{
+        println("Введите 4 числа:")
+        var a= readln().toInt()
+        var b= readln().toInt()
+        var c= readln().toInt()
+        var d= readln().toInt()
+        print(a)
+        print(" ")
+        print(b)
+        print(",")
+        print(c)
+        print(",")
+        print(d)
+}
